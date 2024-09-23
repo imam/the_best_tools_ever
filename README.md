@@ -10,6 +10,10 @@ func halo() {
 }
 
 func search() {
-return "search"
+ return "search"
+}
+
+func index() {
+
 }
 ```
