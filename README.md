@@ -16,4 +16,8 @@ func search() {
 func index() {
 
 }
+
+func main() {
+
+}
 ```
