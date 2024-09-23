@@ -8,4 +8,8 @@ package main
 func halo() {
   return "Halo"
 }
+
+func search() {
+return "search"
+}
 ```
